@@ -1,0 +1,7 @@
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/rebuild_cache.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/edit_cache.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/load_image_3.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/create_matrix.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/change_pixels.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/load_image_2.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build/CMakeFiles/load_image_1.dir

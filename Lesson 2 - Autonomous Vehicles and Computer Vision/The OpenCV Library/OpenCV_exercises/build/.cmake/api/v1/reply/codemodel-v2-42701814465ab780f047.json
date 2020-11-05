@@ -1,0 +1,95 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "camera_fusion",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "change_pixels::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-change_pixels-216b0cd4c0dc4683fc11.json",
+					"name" : "change_pixels",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "create_matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-create_matrix-6a4e69aa1634cbe2849f.json",
+					"name" : "create_matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "load_image_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-load_image_1-674f89cf0e8523eef384.json",
+					"name" : "load_image_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "load_image_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-load_image_2-fed5bb6e316778c94a9b.json",
+					"name" : "load_image_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "load_image_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-load_image_3-23763e7a05b5071cf112.json",
+					"name" : "load_image_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/build",
+		"source" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

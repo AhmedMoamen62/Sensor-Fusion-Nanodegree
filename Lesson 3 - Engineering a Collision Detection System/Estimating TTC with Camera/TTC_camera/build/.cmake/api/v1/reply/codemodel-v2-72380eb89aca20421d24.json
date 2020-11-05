@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "camera_fusion",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "compute_ttc_camera::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compute_ttc_camera-8bc1478e816152d24b34.json",
+					"name" : "compute_ttc_camera",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Camera/TTC_camera/build",
+		"source" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Camera/TTC_camera"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
