@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "camera_fusion",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "project_lidar_to_camera::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_lidar_to_camera-Debug-a5d88817b499a64b0a59.json",
+					"name" : "project_lidar_to_camera",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "show_lidar_top_view::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-show_lidar_top_view-Debug-96f271896aaf1a975768.json",
+					"name" : "show_lidar_top_view",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 6 - Combining Camera and Lidar/Lidar-to-Camera Point Projection/lidar_to_camera/debug",
+		"source" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 6 - Combining Camera and Lidar/Lidar-to-Camera Point Projection/lidar_to_camera"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

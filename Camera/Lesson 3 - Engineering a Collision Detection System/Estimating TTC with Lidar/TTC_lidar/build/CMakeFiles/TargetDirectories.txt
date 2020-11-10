@@ -1,3 +1,3 @@
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Lidar/TTC_lidar/build/CMakeFiles/rebuild_cache.dir
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Lidar/TTC_lidar/build/CMakeFiles/edit_cache.dir
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Camera-Sensor-Fusion/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Lidar/TTC_lidar/build/CMakeFiles/compute_ttc_lidar.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Lidar/TTC_lidar/build/CMakeFiles/rebuild_cache.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Lidar/TTC_lidar/build/CMakeFiles/compute_ttc_lidar.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Lidar/TTC_lidar/build/CMakeFiles/edit_cache.dir

@@ -1,24 +1,24 @@
 Determining if the pthread_create exist failed with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_42e94/fast"
-/usr/bin/make -f CMakeFiles/cmTC_42e94.dir/build.make CMakeFiles/cmTC_42e94.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_42e94.dir/CheckSymbolExists.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_42e94.dir/CheckSymbolExists.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_42e94
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_42e94.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_42e94.dir/CheckSymbolExists.c.o  -o cmTC_42e94 
-CMakeFiles/cmTC_42e94.dir/CheckSymbolExists.c.o: In function `main':
+Run Build Command:"/usr/bin/make" "cmTC_82b62/fast"
+/usr/bin/make -f CMakeFiles/cmTC_82b62.dir/build.make CMakeFiles/cmTC_82b62.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_82b62.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_82b62.dir/CheckSymbolExists.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_82b62
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_82b62.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_82b62.dir/CheckSymbolExists.c.o  -o cmTC_82b62 
+CMakeFiles/cmTC_82b62.dir/CheckSymbolExists.c.o: In function `main':
 CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_42e94.dir/build.make:97: recipe for target 'cmTC_42e94' failed
-make[1]: *** [cmTC_42e94] Error 1
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_42e94/fast' failed
-make: *** [cmTC_42e94/fast] Error 2
+CMakeFiles/cmTC_82b62.dir/build.make:97: recipe for target 'cmTC_82b62' failed
+make[1]: *** [cmTC_82b62] Error 1
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_82b62/fast' failed
+make: *** [cmTC_82b62/fast] Error 2
 
-File /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <pthread.h>
 
@@ -34,47 +34,47 @@ int main(int argc, char** argv)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_c7043/fast"
-/usr/bin/make -f CMakeFiles/cmTC_c7043.dir/build.make CMakeFiles/cmTC_c7043.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c7043.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_c7043.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
-Linking C executable cmTC_c7043
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c7043.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_c7043.dir/CheckFunctionExists.c.o  -o cmTC_c7043 -lpthreads 
+Run Build Command:"/usr/bin/make" "cmTC_28d6b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_28d6b.dir/build.make CMakeFiles/cmTC_28d6b.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_28d6b.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_28d6b.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_28d6b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_28d6b.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_28d6b.dir/CheckFunctionExists.c.o  -o cmTC_28d6b -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_c7043.dir/build.make:97: recipe for target 'cmTC_c7043' failed
-make[1]: *** [cmTC_c7043] Error 1
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_c7043/fast' failed
-make: *** [cmTC_c7043/fast] Error 2
+CMakeFiles/cmTC_28d6b.dir/build.make:97: recipe for target 'cmTC_28d6b' failed
+make[1]: *** [cmTC_28d6b] Error 1
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_28d6b/fast' failed
+make: *** [cmTC_28d6b/fast] Error 2
 
 
 Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_841ee/fast && /usr/bin/make  -f CMakeFiles/cmTC_841ee.dir/build.make CMakeFiles/cmTC_841ee.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_841ee.dir/src.c.o
-/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD -o CMakeFiles/cmTC_841ee.dir/src.c.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/src.c
-Linking C executable cmTC_841ee
-/home/ahmedmoamen/Qt/Tools/CMake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_841ee.dir/link.txt --verbose=1
-/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD -rdynamic CMakeFiles/cmTC_841ee.dir/src.c.o -o cmTC_841ee 
-CMakeFiles/cmTC_841ee.dir/src.c.o: In function `main':
+Run Build Command(s):/usr/bin/make cmTC_53acc/fast && /usr/bin/make  -f CMakeFiles/cmTC_53acc.dir/build.make CMakeFiles/cmTC_53acc.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_53acc.dir/src.c.o
+/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD -o CMakeFiles/cmTC_53acc.dir/src.c.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_53acc
+/home/ahmedmoamen/Qt/Tools/CMake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_53acc.dir/link.txt --verbose=1
+/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD -rdynamic CMakeFiles/cmTC_53acc.dir/src.c.o -o cmTC_53acc 
+CMakeFiles/cmTC_53acc.dir/src.c.o: In function `main':
 src.c:(.text+0x3e): undefined reference to `pthread_create'
 src.c:(.text+0x4a): undefined reference to `pthread_detach'
 src.c:(.text+0x56): undefined reference to `pthread_cancel'
 src.c:(.text+0x67): undefined reference to `pthread_join'
 src.c:(.text+0x7b): undefined reference to `pthread_atfork'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_841ee.dir/build.make:105: recipe for target 'cmTC_841ee' failed
-make[1]: *** [cmTC_841ee] Error 1
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Makefile:140: recipe for target 'cmTC_841ee/fast' failed
-make: *** [cmTC_841ee/fast] Error 2
+CMakeFiles/cmTC_53acc.dir/build.make:105: recipe for target 'cmTC_53acc' failed
+make[1]: *** [cmTC_53acc] Error 1
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Makefile:140: recipe for target 'cmTC_53acc/fast' failed
+make: *** [cmTC_53acc/fast] Error 2
 
 
 Source file was:

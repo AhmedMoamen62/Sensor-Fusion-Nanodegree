@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/processPointClouds.cpp
-processPointClouds.h
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/processPointClouds.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/kdtree.h
+render/render.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/render/render.h
 
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/processPointClouds.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/processPointClouds.cpp
+processPointClouds.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/processPointClouds.h
+
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/processPointClouds.h
 pcl/io/pcd_io.h
 -
 pcl/common/common.h
@@ -35,6 +39,8 @@ iostream
 -
 string
 -
+unordered_set
+-
 vector
 -
 ctime
@@ -42,27 +48,33 @@ ctime
 chrono
 -
 render/box.h
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/render/box.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/render/box.h
+kdtree.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/kdtree.h
 
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/ransac/ransac2d.cpp
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/ransac/ransac2d.cpp
 ../../render/render.h
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/render/render.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/render/render.h
 unordered_set
 -
 ../../processPointClouds.h
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/processPointClouds.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/processPointClouds.h
 ../../processPointClouds.cpp
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/processPointClouds.cpp
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/processPointClouds.cpp
 
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/render/box.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/render/box.h
 Eigen/Geometry
 -
 
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/render/render.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/render/render.cpp
+render.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/render/render.h
+
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/render/render.h
 pcl/visualization/pcl_visualizer.h
 -
 box.h
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/render/box.h
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/render/box.h
 iostream
 -
 vector

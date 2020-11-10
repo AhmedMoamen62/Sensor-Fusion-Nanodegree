@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "camera_fusion",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cluster_with_roi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cluster_with_roi-Debug-6fbcf244e750f888ad17.json",
+					"name" : "cluster_with_roi",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 6 - Combining Camera and Lidar/Creating 3D-Objects/cluster_with_roi/debug",
+		"source" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 6 - Combining Camera and Lidar/Creating 3D-Objects/cluster_with_roi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

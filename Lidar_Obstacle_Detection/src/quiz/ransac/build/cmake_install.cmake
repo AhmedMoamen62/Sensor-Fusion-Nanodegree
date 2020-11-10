@@ -1,4 +1,4 @@
-# Install script for directory: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/ransac
+# Install script for directory: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/ransac
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/ransac/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/ransac/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

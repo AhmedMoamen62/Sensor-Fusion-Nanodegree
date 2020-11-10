@@ -1,0 +1,95 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "camera_fusion",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "change_pixels::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-change_pixels-Debug-75cc96fcfdd2f4505e81.json",
+					"name" : "change_pixels",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "create_matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-create_matrix-Debug-1711504eae66da158387.json",
+					"name" : "create_matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "load_image_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-load_image_1-Debug-2955ee3a508808beefa1.json",
+					"name" : "load_image_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "load_image_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-load_image_2-Debug-fbc8721128fcc659fb2a.json",
+					"name" : "load_image_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "load_image_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-load_image_3-Debug-b2e8b298b03f2c57c9dc.json",
+					"name" : "load_image_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/debug",
+		"source" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

@@ -1,0 +1,3 @@
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 6 - Combining Camera and Lidar/Creating 3D-Objects/cluster_with_roi/debug/CMakeFiles/rebuild_cache.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 6 - Combining Camera and Lidar/Creating 3D-Objects/cluster_with_roi/debug/CMakeFiles/edit_cache.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 6 - Combining Camera and Lidar/Creating 3D-Objects/cluster_with_roi/debug/CMakeFiles/cluster_with_roi.dir

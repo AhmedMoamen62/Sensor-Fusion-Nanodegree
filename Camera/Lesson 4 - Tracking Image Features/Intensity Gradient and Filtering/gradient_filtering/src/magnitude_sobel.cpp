@@ -10,7 +10,7 @@ void magnitudeSobel()
 {
     // load image from file
     cv::Mat img;
-    img = cv::imread("./images/img1gray.png");
+    img = cv::imread("../images/img1gray.png");
 
     // convert image to grayscale
     cv::Mat imgGray;
@@ -33,7 +33,7 @@ void magnitudeSobel()
     // show result
     string windowName = "Gaussian Blurring";
     cv::namedWindow(windowName, 1); // create window
-    cv::imshow(windowName, magnitude);
+    cv::imshow(windowName, imgGray);
     cv::waitKey(0); // wait for keyboard input before continuing
 }
 

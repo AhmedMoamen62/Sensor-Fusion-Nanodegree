@@ -1,4 +1,4 @@
-# Install script for directory: /home/stephen/Work/Camera-Course/C3.3_exercise_solution
+# Install script for directory: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 4 - Tracking Image Features/Overview of Popular Keypoint Detectors/detect_keypoints
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/stephen/Work/Camera-Course/C3.3_exercise_solution/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 4 - Tracking Image Features/Overview of Popular Keypoint Detectors/detect_keypoints/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

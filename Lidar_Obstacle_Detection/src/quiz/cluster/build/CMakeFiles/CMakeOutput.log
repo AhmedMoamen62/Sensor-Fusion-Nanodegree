@@ -1,4 +1,4 @@
-The system is: Linux - 5.4.0-51-generic - x86_64
+The system is: Linux - 5.4.0-52-generic - x86_64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: /usr/bin/cc 
 Build flags: 
@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/3.10.2/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/3.10.2/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/3.10.2/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/3.10.2/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_cb978/fast"
-/usr/bin/make -f CMakeFiles/cmTC_cb978.dir/build.make CMakeFiles/cmTC_cb978.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_cb978.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_cb978.dir/testCCompiler.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_cb978
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb978.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_cb978.dir/testCCompiler.c.o  -o cmTC_cb978 
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_5e806/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5e806.dir/build.make CMakeFiles/cmTC_5e806.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5e806.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_5e806.dir/testCCompiler.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_5e806
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5e806.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_5e806.dir/testCCompiler.c.o  -o cmTC_5e806 
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_15f42/fast"
-/usr/bin/make -f CMakeFiles/cmTC_15f42.dir/build.make CMakeFiles/cmTC_15f42.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_15f42.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_15f42.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_15f42
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_15f42.dir/link.txt --verbose=1
-/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_15f42.dir/CMakeCCompilerABI.c.o  -o cmTC_15f42 
+Run Build Command:"/usr/bin/make" "cmTC_2e2e7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2e2e7.dir/build.make CMakeFiles/cmTC_2e2e7.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2e2e7.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_2e2e7.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_2e2e7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2e2e7.dir/link.txt --verbose=1
+/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_2e2e7.dir/CMakeCCompilerABI.c.o  -o cmTC_2e2e7 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -61,24 +61,24 @@ Thread model: posix
 gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_15f42' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc2HFjc0.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_15f42 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_15f42.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_15f42' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_2e2e7' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccAwz7ZZ.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_2e2e7 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_2e2e7.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_2e2e7' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_15f42/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_15f42.dir/build.make CMakeFiles/cmTC_15f42.dir/build]
-  ignore line: [make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_15f42.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_15f42.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_15f42]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_15f42.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_15f42.dir/CMakeCCompilerABI.c.o  -o cmTC_15f42 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_2e2e7/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_2e2e7.dir/build.make CMakeFiles/cmTC_2e2e7.dir/build]
+  ignore line: [make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_2e2e7.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_2e2e7.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_2e2e7]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2e2e7.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_2e2e7.dir/CMakeCCompilerABI.c.o  -o cmTC_2e2e7 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -90,13 +90,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_15f42' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc2HFjc0.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_15f42 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_15f42.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_2e2e7' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccAwz7ZZ.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_2e2e7 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_2e2e7.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/cc2HFjc0.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccAwz7ZZ.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -115,7 +115,7 @@ Parsed C implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_15f42] ==> ignore
+    arg [cmTC_2e2e7] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -127,7 +127,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_15f42.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_2e2e7.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--push-state] ==> ignore
     arg [--as-needed] ==> ignore
@@ -157,17 +157,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_66e1c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_66e1c.dir/build.make CMakeFiles/cmTC_66e1c.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_66e1c.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_66e1c.dir/feature_tests.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_66e1c
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_66e1c.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_66e1c.dir/feature_tests.c.o  -o cmTC_66e1c 
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_92cae/fast"
+/usr/bin/make -f CMakeFiles/cmTC_92cae.dir/build.make CMakeFiles/cmTC_92cae.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_92cae.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_92cae.dir/feature_tests.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_92cae
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_92cae.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_92cae.dir/feature_tests.c.o  -o cmTC_92cae 
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -177,17 +177,17 @@ make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Ob
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d220d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_d220d.dir/build.make CMakeFiles/cmTC_d220d.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d220d.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_d220d.dir/feature_tests.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_d220d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d220d.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_d220d.dir/feature_tests.c.o  -o cmTC_d220d 
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_dea3e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_dea3e.dir/build.make CMakeFiles/cmTC_dea3e.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dea3e.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_dea3e.dir/feature_tests.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_dea3e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dea3e.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_dea3e.dir/feature_tests.c.o  -o cmTC_dea3e 
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -197,17 +197,17 @@ make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Ob
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_93969/fast"
-/usr/bin/make -f CMakeFiles/cmTC_93969.dir/build.make CMakeFiles/cmTC_93969.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_93969.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_93969.dir/feature_tests.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.c
-Linking C executable cmTC_93969
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_93969.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_93969.dir/feature_tests.c.o  -o cmTC_93969 
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_2067e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2067e.dir/build.make CMakeFiles/cmTC_2067e.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2067e.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_2067e.dir/feature_tests.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.c
+Linking C executable cmTC_2067e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2067e.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_2067e.dir/feature_tests.c.o  -o cmTC_2067e 
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -215,30 +215,30 @@ make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Ob
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_e6411/fast"
-/usr/bin/make -f CMakeFiles/cmTC_e6411.dir/build.make CMakeFiles/cmTC_e6411.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_e6411.dir/testCXXCompiler.cxx.o
-/usr/bin/c++     -o CMakeFiles/cmTC_e6411.dir/testCXXCompiler.cxx.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_e6411
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e6411.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_e6411.dir/testCXXCompiler.cxx.o  -o cmTC_e6411 
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_ae326/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ae326.dir/build.make CMakeFiles/cmTC_ae326.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ae326.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_ae326.dir/testCXXCompiler.cxx.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_ae326
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ae326.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_ae326.dir/testCXXCompiler.cxx.o  -o cmTC_ae326 
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_038d1/fast"
-/usr/bin/make -f CMakeFiles/cmTC_038d1.dir/build.make CMakeFiles/cmTC_038d1.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_038d1.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++     -o CMakeFiles/cmTC_038d1.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_038d1
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_038d1.dir/link.txt --verbose=1
-/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_038d1.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_038d1 
+Run Build Command:"/usr/bin/make" "cmTC_ae458/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ae458.dir/build.make CMakeFiles/cmTC_ae458.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ae458.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTC_ae458.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_ae458
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ae458.dir/link.txt --verbose=1
+/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_ae458.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_ae458 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -250,24 +250,24 @@ Thread model: posix
 gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_038d1' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc8tOja9.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_038d1 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_038d1.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_038d1' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_ae458' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccaCK5Kt.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_ae458 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_ae458.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_ae458' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_038d1/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_038d1.dir/build.make CMakeFiles/cmTC_038d1.dir/build]
-  ignore line: [make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_038d1.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_038d1.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_038d1]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_038d1.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_038d1.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_038d1 ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_ae458/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_ae458.dir/build.make CMakeFiles/cmTC_ae458.dir/build]
+  ignore line: [make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_ae458.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTC_ae458.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_ae458]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ae458.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_ae458.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_ae458 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -279,13 +279,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_038d1' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/cc8tOja9.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_038d1 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_038d1.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_ae458' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccaCK5Kt.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_ae458 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_ae458.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/cc8tOja9.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccaCK5Kt.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -304,7 +304,7 @@ Parsed CXX implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_038d1] ==> ignore
+    arg [cmTC_ae458] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -316,7 +316,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_038d1.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_ae458.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -342,17 +342,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_e7c60/fast"
-/usr/bin/make -f CMakeFiles/cmTC_e7c60.dir/build.make CMakeFiles/cmTC_e7c60.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_e7c60.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_e7c60.dir/feature_tests.cxx.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_e7c60
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e7c60.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_e7c60.dir/feature_tests.cxx.o  -o cmTC_e7c60 
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_73c5c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_73c5c.dir/build.make CMakeFiles/cmTC_73c5c.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_73c5c.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++1z -o CMakeFiles/cmTC_73c5c.dir/feature_tests.cxx.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_73c5c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_73c5c.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_73c5c.dir/feature_tests.cxx.o  -o cmTC_73c5c 
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -415,17 +415,17 @@ make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Ob
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_5ee9b/fast"
-/usr/bin/make -f CMakeFiles/cmTC_5ee9b.dir/build.make CMakeFiles/cmTC_5ee9b.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_5ee9b.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_5ee9b.dir/feature_tests.cxx.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_5ee9b
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5ee9b.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_5ee9b.dir/feature_tests.cxx.o  -o cmTC_5ee9b 
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_778e7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_778e7.dir/build.make CMakeFiles/cmTC_778e7.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_778e7.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++14 -o CMakeFiles/cmTC_778e7.dir/feature_tests.cxx.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_778e7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_778e7.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_778e7.dir/feature_tests.cxx.o  -o cmTC_778e7 
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -488,17 +488,17 @@ make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Ob
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_82149/fast"
-/usr/bin/make -f CMakeFiles/cmTC_82149.dir/build.make CMakeFiles/cmTC_82149.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_82149.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_82149.dir/feature_tests.cxx.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_82149
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_82149.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_82149.dir/feature_tests.cxx.o  -o cmTC_82149 
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_9e882/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9e882.dir/build.make CMakeFiles/cmTC_9e882.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9e882.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++11 -o CMakeFiles/cmTC_9e882.dir/feature_tests.cxx.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_9e882
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9e882.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_9e882.dir/feature_tests.cxx.o  -o cmTC_9e882 
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -561,17 +561,17 @@ make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Ob
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_79d56/fast"
-/usr/bin/make -f CMakeFiles/cmTC_79d56.dir/build.make CMakeFiles/cmTC_79d56.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_79d56.dir/feature_tests.cxx.o
-/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_79d56.dir/feature_tests.cxx.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_79d56
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_79d56.dir/link.txt --verbose=1
-/usr/bin/c++       -rdynamic CMakeFiles/cmTC_79d56.dir/feature_tests.cxx.o  -o cmTC_79d56 
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_8c1f1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8c1f1.dir/build.make CMakeFiles/cmTC_8c1f1.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8c1f1.dir/feature_tests.cxx.o
+/usr/bin/c++    -std=c++98 -o CMakeFiles/cmTC_8c1f1.dir/feature_tests.cxx.o -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_8c1f1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c1f1.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_8c1f1.dir/feature_tests.cxx.o  -o cmTC_8c1f1 
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -632,34 +632,34 @@ make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Ob
     Feature record: CXX_FEATURE:0cxx_variadic_macros
     Feature record: CXX_FEATURE:0cxx_variadic_templates
 Determining if the include file pthread.h exists passed with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_35831/fast"
-/usr/bin/make -f CMakeFiles/cmTC_35831.dir/build.make CMakeFiles/cmTC_35831.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_35831.dir/CheckIncludeFile.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_35831.dir/CheckIncludeFile.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_35831
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_35831.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_35831.dir/CheckIncludeFile.c.o  -o cmTC_35831 
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_5c7c1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5c7c1.dir/build.make CMakeFiles/cmTC_5c7c1.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5c7c1.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_5c7c1.dir/CheckIncludeFile.c.o   -c /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_5c7c1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5c7c1.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_5c7c1.dir/CheckIncludeFile.c.o  -o cmTC_5c7c1 
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the function pthread_create exists in the pthread passed with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_61f41/fast"
-/usr/bin/make -f CMakeFiles/cmTC_61f41.dir/build.make CMakeFiles/cmTC_61f41.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_61f41.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_61f41.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
-Linking C executable cmTC_61f41
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_61f41.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_61f41.dir/CheckFunctionExists.c.o  -o cmTC_61f41 -lpthread 
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_ce335/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ce335.dir/build.make CMakeFiles/cmTC_ce335.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ce335.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_ce335.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_ce335
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ce335.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_ce335.dir/CheckFunctionExists.c.o  -o cmTC_ce335 -lpthread 
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
-The system is: Linux - 5.4.0-51-generic - x86_64
+The system is: Linux - 5.4.0-52-generic - x86_64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: /usr/bin/cc 
 Build flags: 
@@ -671,7 +671,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/3.18.3/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/3.18.3/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -684,15 +684,15 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/3.18.3/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/3.18.3/CompilerIdCXX/a.out"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_998a1/fast && /usr/bin/make  -f CMakeFiles/cmTC_998a1.dir/build.make CMakeFiles/cmTC_998a1.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc   -v -o CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o -c /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCCompilerABI.c
+Run Build Command(s):/usr/bin/make cmTC_0fb2b/fast && /usr/bin/make  -f CMakeFiles/cmTC_0fb2b.dir/build.make CMakeFiles/cmTC_0fb2b.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc   -v -o CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o -c /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCCompilerABI.c
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 OFFLOAD_TARGET_NAMES=nvptx-none
@@ -701,8 +701,8 @@ Target: x86_64-linux-gnu
 Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.5.0-3ubuntu1~18.04' --with-bugurl=file:///usr/share/doc/gcc-7/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++ --prefix=/usr --with-gcc-major-version-only --program-suffix=-7 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-bootstrap --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
 Thread model: posix
 gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/cc1 -quiet -v -imultiarch x86_64-linux-gnu /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o -version -fstack-protector-strong -Wformat -Wformat-security -o /tmp/ccEO6jci.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/cc1 -quiet -v -imultiarch x86_64-linux-gnu /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o -version -fstack-protector-strong -Wformat -Wformat-security -o /tmp/ccAPjiIu.s
 GNU C11 (Ubuntu 7.5.0-3ubuntu1~18.04) version 7.5.0 (x86_64-linux-gnu)
 	compiled by GNU C version 7.5.0, GMP version 6.1.2, MPFR version 4.0.1, MPC version 1.1.0, isl version isl-0.19-GMP
 
@@ -722,15 +722,15 @@ GNU C11 (Ubuntu 7.5.0-3ubuntu1~18.04) version 7.5.0 (x86_64-linux-gnu)
 
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: b62ed4a2880cd4159476ea8293b72fa8
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
- as -v --64 -o CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o /tmp/ccEO6jci.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ as -v --64 -o CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o /tmp/ccAPjiIu.s
 GNU assembler version 2.30 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.30
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
-Linking C executable cmTC_998a1
-/home/ahmedmoamen/Qt/Tools/CMake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_998a1.dir/link.txt --verbose=1
-/usr/bin/cc  -v -rdynamic CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o -o cmTC_998a1 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+Linking C executable cmTC_0fb2b
+/home/ahmedmoamen/Qt/Tools/CMake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0fb2b.dir/link.txt --verbose=1
+/usr/bin/cc  -v -rdynamic CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o -o cmTC_0fb2b 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -742,10 +742,10 @@ Thread model: posix
 gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_998a1' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccyuypck.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_998a1 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_998a1' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_0fb2b' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccveetGx.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_0fb2b /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_0fb2b' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
 
@@ -768,12 +768,12 @@ Parsed C implicit include dir info from above output: rv=done
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):/usr/bin/make cmTC_998a1/fast && /usr/bin/make  -f CMakeFiles/cmTC_998a1.dir/build.make CMakeFiles/cmTC_998a1.dir/build]
-  ignore line: [make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o -c /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCCompilerABI.c]
+  ignore line: [Run Build Command(s):/usr/bin/make cmTC_0fb2b/fast && /usr/bin/make  -f CMakeFiles/cmTC_0fb2b.dir/build.make CMakeFiles/cmTC_0fb2b.dir/build]
+  ignore line: [make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o -c /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCCompilerABI.c]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
@@ -782,8 +782,8 @@ Parsed C implicit link information from above output:
   ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.5.0-3ubuntu1~18.04' --with-bugurl=file:///usr/share/doc/gcc-7/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ --prefix=/usr --with-gcc-major-version-only --program-suffix=-7 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-bootstrap --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
   ignore line: [Thread model: posix]
   ignore line: [gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
-  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/7/cc1 -quiet -v -imultiarch x86_64-linux-gnu /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o -version -fstack-protector-strong -Wformat -Wformat-security -o /tmp/ccEO6jci.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/7/cc1 -quiet -v -imultiarch x86_64-linux-gnu /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o -version -fstack-protector-strong -Wformat -Wformat-security -o /tmp/ccAPjiIu.s]
   ignore line: [GNU C11 (Ubuntu 7.5.0-3ubuntu1~18.04) version 7.5.0 (x86_64-linux-gnu)]
   ignore line: [	compiled by GNU C version 7.5.0  GMP version 6.1.2  MPFR version 4.0.1  MPC version 1.1.0  isl version isl-0.19-GMP]
   ignore line: []
@@ -803,15 +803,15 @@ Parsed C implicit link information from above output:
   ignore line: []
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: b62ed4a2880cd4159476ea8293b72fa8]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
-  ignore line: [ as -v --64 -o CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o /tmp/ccEO6jci.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o /tmp/ccAPjiIu.s]
   ignore line: [GNU assembler version 2.30 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.30]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
-  ignore line: [Linking C executable cmTC_998a1]
-  ignore line: [/home/ahmedmoamen/Qt/Tools/CMake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_998a1.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc  -v -rdynamic CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o -o cmTC_998a1 ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking C executable cmTC_0fb2b]
+  ignore line: [/home/ahmedmoamen/Qt/Tools/CMake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0fb2b.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc  -v -rdynamic CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o -o cmTC_0fb2b ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -823,13 +823,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_998a1' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccyuypck.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_998a1 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_0fb2b' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccveetGx.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_0fb2b /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccyuypck.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccveetGx.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -848,7 +848,7 @@ Parsed C implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_998a1] ==> ignore
+    arg [cmTC_0fb2b] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -860,7 +860,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_998a1.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_0fb2b.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--push-state] ==> ignore
     arg [--as-needed] ==> ignore
@@ -888,12 +888,12 @@ Parsed C implicit link information from above output:
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
+Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/usr/bin/make cmTC_a2f32/fast && /usr/bin/make  -f CMakeFiles/cmTC_a2f32.dir/build.make CMakeFiles/cmTC_a2f32.dir/build
-make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++   -v -o CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o -c /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp
+Run Build Command(s):/usr/bin/make cmTC_e0962/fast && /usr/bin/make  -f CMakeFiles/cmTC_e0962.dir/build.make CMakeFiles/cmTC_e0962.dir/build
+make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++   -v -o CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o -c /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 OFFLOAD_TARGET_NAMES=nvptx-none
@@ -902,8 +902,8 @@ Target: x86_64-linux-gnu
 Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.5.0-3ubuntu1~18.04' --with-bugurl=file:///usr/share/doc/gcc-7/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++ --prefix=/usr --with-gcc-major-version-only --program-suffix=-7 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-bootstrap --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
 Thread model: posix
 gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o -version -fstack-protector-strong -Wformat -Wformat-security -o /tmp/ccGa2SFk.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o -version -fstack-protector-strong -Wformat -Wformat-security -o /tmp/ccoZuv3I.s
 GNU C++14 (Ubuntu 7.5.0-3ubuntu1~18.04) version 7.5.0 (x86_64-linux-gnu)
 	compiled by GNU C version 7.5.0, GMP version 6.1.2, MPFR version 4.0.1, MPC version 1.1.0, isl version isl-0.19-GMP
 
@@ -927,15 +927,15 @@ GNU C++14 (Ubuntu 7.5.0-3ubuntu1~18.04) version 7.5.0 (x86_64-linux-gnu)
 
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: 3eb3dc290cd5714c3e1c3ae751116f07
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- as -v --64 -o CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccGa2SFk.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ as -v --64 -o CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccoZuv3I.s
 GNU assembler version 2.30 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.30
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-Linking CXX executable cmTC_a2f32
-/home/ahmedmoamen/Qt/Tools/CMake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2f32.dir/link.txt --verbose=1
-/usr/bin/c++  -v -rdynamic CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_a2f32 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+Linking CXX executable cmTC_e0962
+/home/ahmedmoamen/Qt/Tools/CMake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e0962.dir/link.txt --verbose=1
+/usr/bin/c++  -v -rdynamic CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_e0962 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
@@ -947,10 +947,10 @@ Thread model: posix
 gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_a2f32' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccug8rNt.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_a2f32 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_a2f32' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_e0962' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccQQ4phM.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_e0962 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_e0962' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp'
 
 
 
@@ -979,12 +979,12 @@ Parsed CXX implicit include dir info from above output: rv=done
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):/usr/bin/make cmTC_a2f32/fast && /usr/bin/make  -f CMakeFiles/cmTC_a2f32.dir/build.make CMakeFiles/cmTC_a2f32.dir/build]
-  ignore line: [make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o -c /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Run Build Command(s):/usr/bin/make cmTC_e0962/fast && /usr/bin/make  -f CMakeFiles/cmTC_e0962.dir/build.make CMakeFiles/cmTC_e0962.dir/build]
+  ignore line: [make[1]: Entering directory '/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Lidar_Obstacle_Detection/src/quiz/cluster/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o -c /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
@@ -993,8 +993,8 @@ Parsed CXX implicit link information from above output:
   ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.5.0-3ubuntu1~18.04' --with-bugurl=file:///usr/share/doc/gcc-7/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ --prefix=/usr --with-gcc-major-version-only --program-suffix=-7 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-bootstrap --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
   ignore line: [Thread model: posix]
   ignore line: [gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/7/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o -version -fstack-protector-strong -Wformat -Wformat-security -o /tmp/ccGa2SFk.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/7/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /home/ahmedmoamen/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o -version -fstack-protector-strong -Wformat -Wformat-security -o /tmp/ccoZuv3I.s]
   ignore line: [GNU C++14 (Ubuntu 7.5.0-3ubuntu1~18.04) version 7.5.0 (x86_64-linux-gnu)]
   ignore line: [	compiled by GNU C version 7.5.0  GMP version 6.1.2  MPFR version 4.0.1  MPC version 1.1.0  isl version isl-0.19-GMP]
   ignore line: []
@@ -1018,15 +1018,15 @@ Parsed CXX implicit link information from above output:
   ignore line: []
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: 3eb3dc290cd5714c3e1c3ae751116f07]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  ignore line: [ as -v --64 -o CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccGa2SFk.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccoZuv3I.s]
   ignore line: [GNU assembler version 2.30 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.30]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  ignore line: [Linking CXX executable cmTC_a2f32]
-  ignore line: [/home/ahmedmoamen/Qt/Tools/CMake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2f32.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++  -v -rdynamic CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_a2f32 ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking CXX executable cmTC_e0962]
+  ignore line: [/home/ahmedmoamen/Qt/Tools/CMake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e0962.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++  -v -rdynamic CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_e0962 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper]
@@ -1038,13 +1038,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/7/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/7/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_a2f32' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccug8rNt.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_a2f32 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_e0962' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/7/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper -plugin-opt=-fresolution=/tmp/ccQQ4phM.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_e0962 /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/7 -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/7/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/7/../../.. CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/7/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccug8rNt.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccQQ4phM.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -1063,7 +1063,7 @@ Parsed CXX implicit link information from above output:
     arg [-znow] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_a2f32] ==> ignore
+    arg [cmTC_e0962] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/7/crtbeginS.o] ==> ignore
@@ -1075,7 +1075,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/7/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/7/../../..]
-    arg [CMakeFiles/cmTC_a2f32.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_e0962.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]

@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "camera_fusion",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gaussian_smoothing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gaussian_smoothing-3286b21bbb2b394c8409.json",
+					"name" : "gaussian_smoothing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gradient_sobel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gradient_sobel-49fb5f9b6d90b2b76279.json",
+					"name" : "gradient_sobel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "magnitude_sobel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-magnitude_sobel-0d30a97bbccdc0d354c5.json",
+					"name" : "magnitude_sobel",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/build",
+		"source" : "/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

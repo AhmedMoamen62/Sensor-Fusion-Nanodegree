@@ -1,0 +1,5 @@
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/debug/CMakeFiles/rebuild_cache.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/debug/CMakeFiles/gaussian_smoothing.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/debug/CMakeFiles/edit_cache.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/debug/CMakeFiles/gradient_sobel.dir
+/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/debug/CMakeFiles/magnitude_sobel.dir
