@@ -2,7 +2,7 @@ import os
 import subprocess
 import csv
 
-os.chdir("./build")
+os.chdir("./../build")
 
 detector_list = ["SHITOMASI", "HARRIS", "FAST", "BRISK", "ORB", "AKAZE", "SIFT"]
 descriptor_list = ["BRISK", "BRIEF", "ORB", "FREAK", "AKAZE", "SIFT"]
@@ -52,9 +52,9 @@ def task_9():
 			
 	return par
 
-task_7_file = '../Output.csv'
-task_8_file = '../Matching.csv'
-task_9_file = '../Time.csv'
+task_7_file = '../Performance Evaluation/Output.csv'
+task_8_file = '../Performance Evaluation/Matching.csv'
+task_9_file = '../Performance Evaluation/Time.csv'
 
 with open(task_9_file, mode='w') as csv_file:
     csv_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
