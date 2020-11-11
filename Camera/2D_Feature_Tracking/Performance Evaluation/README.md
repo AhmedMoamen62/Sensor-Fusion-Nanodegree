@@ -17,8 +17,8 @@ We will compare combinations of them according to 3 **Metrics**
 
 # 1. Average Keypoints in ROI for 10 Images 
 	
-	- Applied on BF Matching, NN Select and Binary Descriptors. 
-	- Detailed keypoitns in ROI for every image in [Keypoints in ROI](Keypoints_in_ROI.csv)
+- Applied on BF Matching, NN Select and Binary Descriptors. 
+- Detailed keypoitns in ROI for every image in [Keypoints in ROI](Keypoints_in_ROI.csv)
 
 | Detectors | Keypoints in Preceding Vehicle |
 | :-------: | :----------------------------: |
@@ -32,8 +32,8 @@ We will compare combinations of them according to 3 **Metrics**
 
 # 2. Average Matched Keypoints between 10 Images 
 
-	- Applied on BF Matching, NN Select for all and Non-Binary Descriptors for AKAZE, SIFT and  Binary Descriptors for the rest.
-	- Detailed Matched Keypoints for sequence of 2 images in [Matched keypoints](Matched_keypoints.csv)
+- Applied on BF Matching, NN Select for all and Non-Binary Descriptors for AKAZE, SIFT and  Binary Descriptors for the rest.
+- Detailed Matched Keypoints for sequence of 2 images in [Matched keypoints](Matched_keypoints.csv)
 
 | Detectors/Descriptors |  BRISK  |  BRIEF  |   ORB   |  FREAK  | AKAZE  |  SIFT   |
 | :-------------------: |  :---:  |  :---:  |   :-:   |  :---:  | :---:  |  :--:   |
@@ -47,8 +47,8 @@ We will compare combinations of them according to 3 **Metrics**
 
 # 3. Average Execution Time in ms for 10 Images 
 
-	- Applied on BF Matching, NN Select for all and Non-Binary Descriptors for AKAZE, SIFT and  Binary Descriptors for the rest.
-	- Detailed Execution Time for every 2 image in [Execution Time](Execution_Time.csv)
+- Applied on BF Matching, NN Select for all and Non-Binary Descriptors for AKAZE, SIFT and  Binary Descriptors for the rest.
+- Detailed Execution Time for every 2 image in [Execution Time](Execution_Time.csv)
 
 | Detectors/Descriptors |  BRISK  |  BRIEF  |   ORB   |  FREAK  | AKAZE   |   SIFT   |
 | :-------------------: |  :---:  |  :---:  |   :-:   |  :---:  | :---:   |   :--:   |
@@ -65,6 +65,6 @@ and BRISK-BRIEF Detectors/Descriptors has th higher average keypoint for image
 
 Comparing run-time execution we will find top 3 pair of Detectors/Descriptors as following :
 
-	1. FAST-BRIEF
-	2. HARRIS-BRIEF
-	3. FAST-ORB
+1. FAST-BRIEF
+2. HARRIS-BRIEF
+3. FAST-ORB
