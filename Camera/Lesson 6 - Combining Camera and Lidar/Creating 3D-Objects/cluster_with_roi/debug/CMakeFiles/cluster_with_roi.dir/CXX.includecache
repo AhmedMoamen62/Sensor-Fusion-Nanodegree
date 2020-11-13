@@ -28,18 +28,6 @@ vector
 opencv2/core.hpp
 -
 
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 6 - Combining Camera and Lidar/Creating 3D-Objects/cluster_with_roi/src/structIO.cpp
-iostream
--
-fstream
--
-algorithm
--
-opencv2/highgui/highgui.hpp
--
-structIO.hpp
-/media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 6 - Combining Camera and Lidar/Creating 3D-Objects/cluster_with_roi/src/structIO.hpp
-
 /media/ahmedmoamen/01D61DA8A11BE740/Project/Sensor-Fusion-Nanodegree/Camera/Lesson 6 - Combining Camera and Lidar/Creating 3D-Objects/cluster_with_roi/src/structIO.hpp
 stdio.h
 -
@@ -865,10 +853,6 @@ opencv2/imgcodecs.hpp
 /usr/local/include/opencv4/opencv2/opencv2/imgcodecs.hpp
 opencv2/videoio.hpp
 /usr/local/include/opencv4/opencv2/opencv2/videoio.hpp
-
-/usr/local/include/opencv4/opencv2/highgui/highgui.hpp
-opencv2/highgui.hpp
-/usr/local/include/opencv4/opencv2/highgui/opencv2/highgui.hpp
 
 /usr/local/include/opencv4/opencv2/imgcodecs.hpp
 opencv2/core.hpp

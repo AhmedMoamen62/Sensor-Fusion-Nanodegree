@@ -42,7 +42,7 @@ void showLidarTopview(std::vector<LidarPoint> &lidarPoints, cv::Size worldSize, 
         int x = (-yw * imageSize.height / worldSize.height) + imageSize.width / 2;
 
         float zw = (*it).z; // world position in m with y facing left from sensor
-        if(zw > -1.40){       
+        if(zw > -1.40){
 
             float val = it->x;
             float maxVal = worldSize.height;
@@ -58,7 +58,7 @@ void showLidarTopview(std::vector<LidarPoint> &lidarPoints, cv::Size worldSize, 
     for (size_t i = 0; i < nMarkers; ++i)
     {
         int y = (-(i * lineSpacing) * imageSize.height / worldSize.height) + imageSize.height;
-        cv::line(topviewImg, cv::Point(0, y), cv::Point(imageSize.width, y), cv::Scalar(255, 0, 0));
+        cv::line(topviewImg, cv::Point(0, y), cv::Point(imageSize.width, y), cv::Scalar(255, 0, 0), 2);
     }
 
     // display image
@@ -109,15 +109,17 @@ void clusterLidarWithROI(std::vector<BoundingBox> &boundingBoxes, std::vector<Li
             // check wether point is within current bounding box
             if (smallerBox.contains(pt))
             {
-                it2->lidarPoints.push_back(*it1);
-                lidarPoints.erase(it1);
-                it1--;
-                break;
+                enclosingBoxes.push_back(it2);
             }
         } // eof loop over all bounding boxes
         
-      // TODO - check wether point has been enclosed by one or by multiple boxes. 
-      // Accordingly, add Lidar point to bounding box
+        // TODO - check wether point has been enclosed by one or by multiple boxes.
+        // Accordingly, add Lidar point to bounding box
+        if (enclosingBoxes.size() == 1)
+        {
+            // add Lidar point to bounding box
+            enclosingBoxes[0]->lidarPoints.push_back(*it1);
+        }
 
     } // eof loop over all Lidar points
 }
@@ -137,7 +139,7 @@ int main()
         {
             showLidarTopview(it->lidarPoints, cv::Size(10.0, 25.0), cv::Size(1000, 2000));
         }
-    }   
+    }
 
     return 0;
 }
