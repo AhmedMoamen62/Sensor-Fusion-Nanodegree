@@ -110,6 +110,8 @@ void clusterLidarWithROI(std::vector<BoundingBox> &boundingBoxes, std::vector<Li
             if (smallerBox.contains(pt))
             {
                 enclosingBoxes.push_back(it2);
+                if(enclosingBoxes.size() > 1)
+                    break;
             }
         } // eof loop over all bounding boxes
         
