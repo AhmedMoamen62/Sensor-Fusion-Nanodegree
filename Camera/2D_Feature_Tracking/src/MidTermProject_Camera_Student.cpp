@@ -33,22 +33,58 @@ int main(int argc, const char *argv[])
 {
     std::string detectorType_argv;
     std::string descriptorType_argv;
+    std::string matcherType_argv;
+    std::string distanceType_argv;
+    std::string selectorType_argv;
 
     // Init vars for stats script
-    if(argc == 3)
+    if(argc == 6)
     {
         detectorType_argv = argv[1];
         descriptorType_argv = argv[2];
+        matcherType_argv = argv[3];
+        distanceType_argv = argv[4];
+        selectorType_argv = argv[5];
+    }
+    else if (argc == 5)
+    {
+        detectorType_argv = argv[1];
+        descriptorType_argv = argv[2];
+        matcherType_argv = argv[3];
+        distanceType_argv = argv[4];
+        selectorType_argv = matdes_params::SELECT_NN;
+    }
+    else if (argc == 4)
+    {
+        detectorType_argv = argv[1];
+        descriptorType_argv = argv[2];
+        matcherType_argv = argv[3];
+        distanceType_argv = matdes_params::DESC_BINARY;
+        selectorType_argv = matdes_params::SELECT_NN;
+    }
+    else if (argc == 3)
+    {
+        detectorType_argv = argv[1];
+        descriptorType_argv = argv[2];
+        matcherType_argv = matdes_params::MATCHER_BF;
+        distanceType_argv = matdes_params::DESC_BINARY;
+        selectorType_argv = matdes_params::SELECT_NN;
     }
     else if (argc == 2)
     {
         detectorType_argv = argv[1];
         descriptorType_argv = "BRIEF";
+        matcherType_argv = matdes_params::MATCHER_BF;
+        distanceType_argv = matdes_params::DESC_BINARY;
+        selectorType_argv = matdes_params::SELECT_NN;
     }
     else if (argc == 1)
     {
         detectorType_argv = "SHITOMASI";
         descriptorType_argv = "BRIEF";
+        matcherType_argv = matdes_params::MATCHER_BF;
+        distanceType_argv = matdes_params::DESC_BINARY;
+        selectorType_argv = matdes_params::SELECT_NN;
     }
 
     /* INIT VARIABLES AND DATA STRUCTURES */
@@ -191,9 +227,9 @@ int main(int argc, const char *argv[])
             /* MATCH KEYPOINT DESCRIPTORS */
 
             vector<cv::DMatch> matches;
-            string matcherType = matdes_params::MATCHER_BF;        // MAT_BF, MAT_FLANN
-            string descriptorType = matdes_params::DESC_BINARY; // DES_BINARY, DES_HOG
-            string selectorType = matdes_params::SELECT_KNN;       // SEL_NN, SEL_KNN
+            string matcherType = matcherType_argv;        // MAT_BF, MAT_FLANN
+            string descriptorType = distanceType_argv;    // DES_BINARY, DES_HOG
+            string selectorType = selectorType_argv;      // SEL_NN, SEL_KNN
 
             //// STUDENT ASSIGNMENT
             //// TASK MP.5 -> add FLANN matching in file matching2D.cpp
