@@ -14,12 +14,16 @@ range_max = 200;
 range_res = 1;
 velocity_max = 100;
 c = 3e8;
+
+%Operating carrier frequency of Radar 
+fc= 77e9;             %carrier freq
+
 %% User Defined Range and Velocity of target
 % *%TODO* :
 % define the target's initial position and velocity. Note : Velocity
 % remains contant
-R=110; %initial distance of the target
-v=-20; %speed of the target
+R = 110; %initial distance of the target
+v = -20; %speed of the target
 
 
 %% FMCW Waveform Generation
@@ -31,9 +35,6 @@ v=-20; %speed of the target
 Tchirp = 5.5*(range_max*2/c);
 B = c/(2*range_res);
 slope = B/Tchirp;
-
-%Operating carrier frequency of Radar 
-fc= 77e9;             %carrier freq
 
                                                           
 %The number of chirps in one sequence. Its ideal to have 2^ value for the ease of running the FFT
@@ -73,7 +74,7 @@ for i=1:length(t)
     %For each time sample we need update the transmitted and
     %received signal. 
     Tx(i) = cos(2 * pi * (fc * t(i) + (slope * t(i)^2)/2));
-    Rx (i) = cos(2 * pi * (fc * t(i) + (slope * (t(i)-td(i))^2)/2));
+    Rx(i) = cos(2 * pi * (fc * t(i) + (slope * (t(i)-td(i))^2)/2));
     
     % *%TODO* :
     %Now by mixing the Transmit and Receive generate the beat signal
