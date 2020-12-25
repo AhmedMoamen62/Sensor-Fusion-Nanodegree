@@ -53,5 +53,5 @@ for i = 1:(doppler-(Gd+Td))
   end
 end
 
-s(s != 0 || s != 1) = 0;
+s(s != 0 && s != 1) = 0;
 figure,imagesc(s);
